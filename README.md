@@ -70,9 +70,5 @@ La app permite navegar entre secciones:
 - Python 3.9 o superior  
 - Librerías: `streamlit`, `pandas`, `openpyxl`, *(opcionalmente)* `graphviz`
 
----
 
-## ✨ Autor
 
-**Leandro Serantes**  
-Proyecto  — *Tienda Aurelion (Sprint 1)*  
