@@ -1,0 +1,101 @@
+﻿id_cliente,nombre_cliente,email,ciudad,fecha_alta,latitud,longitud
+1,Mariana Lopez,mariana.lopez@mail.com,Villa Carlos Paz,1/1/2023,-31.4183,-64.4901
+2,Nicolas Rojas,nicolas.rojas@mail.com,Villa Carlos Paz,2/1/2023,-31.4183,-64.4901
+3,Hernan Martinez,hernan.martinez@mail.com,Río Cuarto,3/1/2023,-33.1304,-64.3527
+4,Uma Martinez,uma.martinez@mail.com,Villa Carlos Paz,4/1/2023,-31.4183,-64.4901
+5,Agustina Flores,agustina.flores@mail.com,Córdoba,5/1/2023,-31.4065,-64.1885
+6,Uma Medina,uma.medina@mail.com,Villa María,6/1/2023,-32.4075,-64.2402
+7,Emilia Castro,emilia.castro@mail.com,Río Cuarto,7/1/2023,-33.1304,-64.3527
+8,Bruno Castro,bruno.castro@mail.com,Villa Carlos Paz,8/1/2023,-31.4183,-64.4901
+9,Yamila Molina,yamila.molina@mail.com,Villa Carlos Paz,9/1/2023,-31.4183,-64.4901
+10,Karina Acosta,karina.acosta@mail.com,Córdoba,10/1/2023,-31.4065,-64.1885
+11,Helena Sanchez,helena.sanchez@mail.com,Villa María,11/1/2023,-32.4075,-64.2402
+12,Gael Gomez,gael.gomez@mail.com,Alta Gracia,12/1/2023,-31.6498,-64.4297
+13,Ivana Sanchez,ivana.sanchez@mail.com,Villa Carlos Paz,13/1/2023,-31.4183,-64.4901
+14,Gael Martinez,gael.martinez@mail.com,Villa Carlos Paz,14/1/2023,-31.4183,-64.4901
+15,Tomas Ruiz,tomas.ruiz@mail.com,Córdoba,15/1/2023,-31.4065,-64.1885
+16,Felipe Alvarez,felipe.alvarez@mail.com,Río Cuarto,16/1/2023,-33.1304,-64.3527
+17,Pablo Gomez,pablo.gomez@mail.com,Villa María,17/1/2023,-32.4075,-64.2402
+18,Ivana Torres,ivana.torres@mail.com,Villa Carlos Paz,18/1/2023,-31.4183,-64.4901
+19,Uma Silva,uma.silva@mail.com,Mendiolaza,19/1/2023,-31.2641,-64.3091
+20,Tomas Acosta,tomas.acosta@mail.com,Río Cuarto,20/1/2023,-33.1304,-64.3527
+21,Elena Rodriguez,elena.rodriguez@mail.com,Alta Gracia,21/1/2023,-31.6498,-64.4297
+22,Franco Rodriguez,franco.rodriguez@mail.com,Alta Gracia,22/1/2023,-31.6498,-64.4297
+23,Helena Fernandez,helena.fernandez@mail.com,Río Cuarto,23/1/2023,-33.1304,-64.3527
+24,Nicolas Silva,nicolas.silva@mail.com,Villa María,24/1/2023,-32.4075,-64.2402
+25,Karina Castro,karina.castro@mail.com,Río Cuarto,25/1/2023,-33.1304,-64.3527
+26,Camila Sanchez,camila.sanchez@mail.com,Alta Gracia,26/1/2023,-31.6498,-64.4297
+27,Tomas Castro,tomas.castro@mail.com,Río Cuarto,27/1/2023,-33.1304,-64.3527
+28,Rocio Silva,rocio.silva@mail.com,Córdoba,28/1/2023,-31.4065,-64.1885
+29,Diego Fernandez,diego.fernandez@mail.com,Alta Gracia,29/1/2023,-31.6498,-64.4297
+30,Ivana Medina,ivana.medina@mail.com,Alta Gracia,30/1/2023,-31.6498,-64.4297
+31,Felipe Ruiz,felipe.ruiz@mail.com,Villa María,31/1/2023,-32.4075,-64.2402
+32,Martina Alvarez,martina.alvarez@mail.com,Mendiolaza,1/2/2023,-31.2641,-64.3091
+33,Franco Acosta,franco.acosta@mail.com,Río Cuarto,2/2/2023,-33.1304,-64.3527
+34,Bruno Castro,bruno.castro2@mail.com,Villa María,3/2/2023,-32.4075,-64.2402
+35,Yamila Lopez,yamila.lopez@mail.com,Mendiolaza,4/2/2023,-31.2641,-64.3091
+36,Martina Molina,martina.molina@mail.com,Mendiolaza,5/2/2023,-31.2641,-64.3091
+37,Martina Perez,martina.perez@mail.com,Mendiolaza,6/2/2023,-31.2641,-64.3091
+38,Franco Herrera,franco.herrera@mail.com,Alta Gracia,7/2/2023,-31.6498,-64.4297
+39,Santiago Diaz,santiago.diaz@mail.com,Alta Gracia,8/2/2023,-31.6498,-64.4297
+40,Felipe Diaz,felipe.diaz@mail.com,Río Cuarto,9/2/2023,-33.1304,-64.3527
+41,Elena Rodriguez,elena.rodriguez2@mail.com,Alta Gracia,10/2/2023,-31.6498,-64.4297
+42,Tomas Flores,tomas.flores@mail.com,Alta Gracia,11/2/2023,-31.6498,-64.4297
+43,Lucas Perez,lucas.perez@mail.com,Mendiolaza,12/2/2023,-31.2641,-64.3091
+44,Camila Romero,camila.romero@mail.com,Villa Carlos Paz,13/2/2023,-31.4183,-64.4901
+45,Olivia Castro,olivia.castro@mail.com,Río Cuarto,14/2/2023,-33.1304,-64.3527
+46,Agustina Martinez,agustina.martinez@mail.com,Alta Gracia,15/2/2023,-31.6498,-64.4297
+47,Franco Silva,franco.silva@mail.com,Alta Gracia,16/2/2023,-31.6498,-64.4297
+48,Rocio Alvarez,rocio.alvarez@mail.com,Córdoba,17/2/2023,-31.4065,-64.1885
+49,Olivia Gomez,olivia.gomez@mail.com,Río Cuarto,18/2/2023,-33.1304,-64.3527
+50,Lucas Diaz,lucas.diaz@mail.com,Villa Carlos Paz,19/2/2023,-31.4183,-64.4901
+51,Agustina Gomez,agustina.gomez@mail.com,Río Cuarto,20/2/2023,-33.1304,-64.3527
+52,Diego Diaz,diego.diaz@mail.com,Río Cuarto,21/2/2023,-33.1304,-64.3527
+53,Emilia Rojas,emilia.rojas@mail.com,Mendiolaza,22/2/2023,-31.2641,-64.3091
+54,Uma Herrera,uma.herrera@mail.com,Alta Gracia,23/2/2023,-31.6498,-64.4297
+55,Olivia Ruiz,olivia.ruiz@mail.com,Mendiolaza,24/2/2023,-31.2641,-64.3091
+56,Bruno Diaz,bruno.diaz@mail.com,Río Cuarto,25/2/2023,-33.1304,-64.3527
+57,Julian Acosta,julian.acosta@mail.com,Río Cuarto,26/2/2023,-33.1304,-64.3527
+58,Karina Acosta,karina.acosta2@mail.com,Río Cuarto,27/2/2023,-33.1304,-64.3527
+59,Emilia Ruiz,emilia.ruiz@mail.com,Villa María,28/2/2023,-32.4075,-64.2402
+60,Uma Gonzalez,uma.gonzalez@mail.com,Alta Gracia,1/3/2023,-31.6498,-64.4297
+61,Guadalupe Martinez,guadalupe.martinez@mail.com,Río Cuarto,2/3/2023,-33.1304,-64.3527
+62,Guadalupe Romero,guadalupe.romero@mail.com,Villa Carlos Paz,3/3/2023,-31.4183,-64.4901
+63,Pablo Medina,pablo.medina@mail.com,Córdoba,4/3/2023,-31.4065,-64.1885
+64,Julian Alvarez,julian.alvarez@mail.com,Villa María,5/3/2023,-32.4075,-64.2402
+65,Tomas Perez,tomas.perez@mail.com,Alta Gracia,6/3/2023,-31.6498,-64.4297
+66,Tomas Herrera,tomas.herrera@mail.com,Villa María,7/3/2023,-32.4075,-64.2402
+67,Ivana Romero,ivana.romero@mail.com,Alta Gracia,8/3/2023,-31.6498,-64.4297
+68,Uma Torres,uma.torres@mail.com,Villa María,9/3/2023,-32.4075,-64.2402
+69,Felipe Flores,felipe.flores@mail.com,Río Cuarto,10/3/2023,-33.1304,-64.3527
+70,Julian Diaz,julian.diaz@mail.com,Villa Carlos Paz,11/3/2023,-31.4183,-64.4901
+71,Valentina Alvarez,valentina.alvarez@mail.com,Villa María,12/3/2023,-32.4075,-64.2402
+72,Camila Rodriguez,camila.rodriguez@mail.com,Córdoba,13/3/2023,-31.4065,-64.1885
+73,Yamila Diaz,yamila.diaz@mail.com,Alta Gracia,14/3/2023,-31.6498,-64.4297
+74,Zoe Flores,zoe.flores@mail.com,Villa Carlos Paz,15/3/2023,-31.4183,-64.4901
+75,Santiago Castro,santiago.castro@mail.com,Río Cuarto,16/3/2023,-33.1304,-64.3527
+76,Pablo Perez,pablo.perez@mail.com,Mendiolaza,17/3/2023,-31.2641,-64.3091
+77,Bruno Alvarez,bruno.alvarez@mail.com,Villa María,18/3/2023,-32.4075,-64.2402
+78,Emilia Alvarez,emilia.alvarez@mail.com,Villa María,19/3/2023,-32.4075,-64.2402
+79,Olivia Perez,olivia.perez@mail.com,Villa Carlos Paz,20/3/2023,-31.4183,-64.4901
+80,Gael Ruiz,gael.ruiz@mail.com,Mendiolaza,21/3/2023,-31.2641,-64.3091
+81,Camila Ruiz,camila.ruiz@mail.com,Villa Carlos Paz,22/3/2023,-31.4183,-64.4901
+82,Lucas Lopez,lucas.lopez@mail.com,Alta Gracia,23/3/2023,-31.6498,-64.4297
+83,Franco Gomez,franco.gomez@mail.com,Río Cuarto,24/3/2023,-33.1304,-64.3527
+84,Pablo Sanchez,pablo.sanchez@mail.com,Córdoba,25/3/2023,-31.4065,-64.1885
+85,Agustina Martinez,agustina.martinez2@mail.com,Mendiolaza,26/3/2023,-31.2641,-64.3091
+86,Diego Torres,diego.torres@mail.com,Córdoba,27/3/2023,-31.4065,-64.1885
+87,Bautista Lopez,bautista.lopez@mail.com,Alta Gracia,28/3/2023,-31.6498,-64.4297
+88,Felipe Castro,felipe.castro@mail.com,Villa María,29/3/2023,-32.4075,-64.2402
+89,Karina Martinez,karina.martinez@mail.com,Río Cuarto,30/3/2023,-33.1304,-64.3527
+90,Guadalupe Ruiz,guadalupe.ruiz@mail.com,Río Cuarto,31/3/2023,-33.1304,-64.3527
+91,Uma Sanchez,uma.sanchez@mail.com,Mendiolaza,1/4/2023,-31.2641,-64.3091
+92,Mariana Rodriguez,mariana.rodriguez@mail.com,Alta Gracia,2/4/2023,-31.6498,-64.4297
+93,Gael Rojas,gael.rojas@mail.com,Alta Gracia,3/4/2023,-31.6498,-64.4297
+94,Elena Sanchez,elena.sanchez@mail.com,Mendiolaza,4/4/2023,-31.2641,-64.3091
+95,Olivia Perez,olivia.perez2@mail.com,Río Cuarto,5/4/2023,-33.1304,-64.3527
+96,Rocio Gonzalez,rocio.gonzalez@mail.com,Córdoba,6/4/2023,-31.4065,-64.1885
+97,Uma Alvarez,uma.alvarez@mail.com,Córdoba,7/4/2023,-31.4065,-64.1885
+98,Camila Castro,camila.castro@mail.com,Córdoba,8/4/2023,-31.4065,-64.1885
+99,Bruno Molina,bruno.molina@mail.com,Villa María,9/4/2023,-32.4075,-64.2402
+100,Agustina Lopez,agustina.lopez@mail.com,Córdoba,10/4/2023,-31.4065,-64.1885
