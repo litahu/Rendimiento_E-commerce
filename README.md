@@ -2,6 +2,7 @@
 # 💰 **Análisis del rendimiento de un E-commerce**
 <img src="https://github.com/litahu/Rendimiento_E-commerce/blob/main/Sprint_1/IMAGES/LOGO_END.png?raw=true" alt="inserir alt">
 <br>
+
 **Tool** : [Notebook](https://github.com/litahu/Rendimiento_E-commerce/tree/main/Sprint_1/BD)
 **Visualización** : Aplicación desarrollada en **Python + Streamlit** <br>
 **Dataset** : Guayerd IA - [Ecommerce Data](https://github.com/litahu/Rendimiento_E-commerce/tree/main/Sprint_1/BD)
@@ -24,6 +25,9 @@ Recopilar información a partir de análisis y visualizaciones en forma de:
 1. **Crecimiento mensual de la actividad del cliente**
 2. **Calidad mensual de la categoría de productos**
 3. **Uso del tipo de pago mensual**
+
+<br>
+<br>
 
 ---
 ## 📁**FASE 0: Preparación de datos**
@@ -52,6 +56,7 @@ Figura 1. Diagrama de relación de entidades
 
 
 <detail
+
 
 
 
