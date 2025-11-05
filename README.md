@@ -3,9 +3,9 @@
 <img src="https://github.com/litahu/Rendimiento_E-commerce/blob/main/Sprint_1/IMAGES/LOGO_END.png?raw=true" alt="inserir alt">
 <br>
 
-**Tool** : [Notebook](https://github.com/litahu/Rendimiento_E-commerce/tree/main/Sprint_1/BD)
+**Tool** : [Notebook](https://github.com/litahu/Rendimiento_E-commerce/tree/main/Sprint_1/BD)<br>
 **Visualización** : Aplicación desarrollada en **Python + Streamlit** <br>
-**Dataset** : Guayerd IA - [Ecommerce Data](https://github.com/litahu/Rendimiento_E-commerce/tree/main/Sprint_1/BD)
+**Dataset** : Guayerd IA - [Ecommerce Data](https://github.com/litahu/Rendimiento_E-commerce/tree/main/Sprint_1/BD)<br>
 <br>
 <br>
 
@@ -43,7 +43,7 @@ El conjunto de datos utilizado pertenece a Tienda Aurelión y contiene informaci
 
 **Resultados de ERD:**<br>
 <pag alinear= "centro">
-<kbd><img src="https://github.com/litahu/Rendimiento_E-commerce/blob/main/Sprint_1/IMAGES/DRE.png" alt="inserir alt"></kbd>
+<kbd><img src="https://github.com/litahu/Rendimiento_E-commerce/blob/main/Sprint_1/IMAGES/DRE.png" alt="inserir alt"></kbd><br>
 Figura 1. Diagrama de relación de entidades
 </pag>
 <br>
@@ -56,6 +56,7 @@ Figura 1. Diagrama de relación de entidades
 
 
 <detail
+
 
 
 
