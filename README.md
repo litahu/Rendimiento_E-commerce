@@ -13,13 +13,13 @@
 
 ## 📁**ETAPA 0: Enunciado del problema**
 
-###**Historia de fondo**
+### **Historia de fondo**
 
 Tienda Aurelión es una gran minorista que atiende algunas provincias de Córdova a través de su e-commerce. Es conocida por la amplia variedad de productos que ofrece, buscando satisfacer a todo tipo de público desde sus centros de distribución (CDs).
 
 La tienda Aurelión atraviesa una situación crítica y necesita tu apoyo para mantenerse operativa. En los últimos meses, ha experimentado un estancamiento en su flujo de caja. Para contribuir a la toma de decisiones estratégicas en su plataforma online, se te proporciona acceso a cuatro bases de datos: clientes, detalle de ventas, productos y ventas.
 
-###**Objetivo**
+### **Objetivo**
 Recopilar información a partir de análisis y visualizaciones en forma de:
 
 1. **Crecimiento mensual de la actividad del cliente**
@@ -58,6 +58,7 @@ El conjunto de datos utilizado pertenece a Tienda Aurelión y contiene informaci
 
 
 <detail
+
 
 
 
