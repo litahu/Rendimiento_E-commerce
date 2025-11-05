@@ -43,9 +43,10 @@ El conjunto de datos utilizado pertenece a Tienda Aurelión y contiene informaci
 
 **Resultados de ERD:**<br>
 <pag alinear= "centro">
-  <kbd><img src="https://github.com/litahu/Rendimiento_E-commerce/blob/main/Sprint_1/IMAGES/DRE.png" alt="inserir alt"></kbd><br>
+  <kbd><img src="https://github.com/litahu/Rendimiento_E-commerce/blob/main/Sprint_1/IMAGES/DRE.png" alt="inserir alt"> </kbd> <br>
   Figura 1. Diagrama de relación de entidades
-</pag>
+</pag>  
+
 <br>
 <br>
 
@@ -57,6 +58,7 @@ El conjunto de datos utilizado pertenece a Tienda Aurelión y contiene informaci
 
 
 <detail
+
 
 
 
