@@ -42,10 +42,11 @@ El conjunto de datos utilizado pertenece a Tienda Aurelión y contiene informaci
 4. Crear y exportar diagramas ERD (diagramas de entidad-relación).
 
 **Resultados de ERD:**<br>
-<pag alinear= "centro">
+<pag alinear= "center">
   <img src="https://github.com/litahu/Rendimiento_E-commerce/blob/main/Sprint_1/IMAGES/DRE.png" alt="inserir alt"> <br>
   Figura 1. Diagrama de relación de entidades
 </pag>  
+
 
 <br>
 <br>
@@ -58,6 +59,7 @@ El conjunto de datos utilizado pertenece a Tienda Aurelión y contiene informaci
 
 
 <detail
+
 
 
 
