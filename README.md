@@ -1,74 +1,62 @@
 
-# 🛒 Tienda Aurelion — App Interactiva (Streamlit)
-
-Aplicación desarrollada en **Python + Streamlit** para visualizar y analizar datos de clientes, ventas, productos y métodos de pago.
-
----
-
-## 📁 Estructura del proyecto
-
-```
-AURELION/
-├── aurelion_app.py
-├── requirements.txt
-├── BD/
-│   ├── clientes.xlsx
-│   ├── productos.xlsx
-│   ├── ventas.xlsx
-│   └── detalle_ventas.xlsx
-└── IMAGES/
-    ├── LOGO.png
-    └── LOGO2.png
-```
+# 💰 **Análisis del rendimiento de un E-commerce**
+<img src="https://github.com/litahu/Rendimiento_E-commerce/blob/main/Sprint_1/IMAGES/LOGO_END.png?raw=true" alt="inserir alt">
+<br>
+**Tool** : [Notebook](https://github.com/litahu/Rendimiento_E-commerce/tree/main/Sprint_1/BD)
+**Visualización** : Aplicación desarrollada en **Python + Streamlit** <br>
+**Dataset** : Guayerd IA - [Ecommerce Data](https://github.com/litahu/Rendimiento_E-commerce/tree/main/Sprint_1/BD)
+<br>
+<br>
 
 ---
 
-## ⚙️ Instalación de dependencias
+## 📁**ETAPA 0: Enunciado del problema**
 
-Desde una terminal dentro de la carpeta **AURELION**, ejecutar:
+###**Historia de fondo**
 
-```bash
-pip install -r requirements.txt
-```
+Tienda Aurelión es una gran minorista que atiende algunas provincias de Córdova a través de su e-commerce. Es conocida por la amplia variedad de productos que ofrece, buscando satisfacer a todo tipo de público desde sus centros de distribución (CDs).
 
-Si preferís instalar manualmente:
+La tienda Aurelión atraviesa una situación crítica y necesita tu apoyo para mantenerse operativa. En los últimos meses, ha experimentado un estancamiento en su flujo de caja. Para contribuir a la toma de decisiones estratégicas en su plataforma online, se te proporciona acceso a cuatro bases de datos: clientes, detalle de ventas, productos y ventas.
 
-```bash
-pip install streamlit pandas openpyxl graphviz
-```
+###**Objetivo**
+Recopilar información a partir de análisis y visualizaciones en forma de:
 
-> 💡 *El paquete `graphviz` es opcional. Solo se usa para visualizar el diagrama de flujo.*
+1. **Crecimiento mensual de la actividad del cliente**
+2. **Calidad mensual de la categoría de productos**
+3. **Uso del tipo de pago mensual**
+
+---
+## 📁**FASE 0: Preparación de datos**
+El conjunto de datos utilizado pertenece a Tienda Aurelión y contiene información de pedidos, con un total de 336 registros realizados en el primer semestre del 2023. Se incluye características que generan información como el estado del pedido, la ubicación, el tipo de pago y las reseñas por valor.
+
+###**Crear base de datos y diagrama ER**
+
+**Las medidas adoptadas incluyen:**
+1. Crea un espacio de trabajo de base de datos
+2. Importar datos CSV a la base de datos
+3. Determinar la clave primaria o la clave foránea
+4. Crear y exportar diagramas ERD (diagramas de entidad-relación).
+
+**Resultados de ERD:**<br>
+<pag alinear= "centro">
+<kbd><img src="https://github.com/litahu/Rendimiento_E-commerce/blob/main/Sprint_1/IMAGES/DRE.png" alt="inserir alt"></kbd>
+Figura 1. Diagrama de relación de entidades
+</pag>
+<br>
 
 ---
 
-## ▶️ Ejecución de la app
+## 📂 **ETAPA 2: Análisis de datos**
 
-Ejecutar el siguiente comando:
+### **1. Crecimiento mensual de la actividad del cliente**
 
-```bash
-streamlit run aurelion_app.py
-```
 
-La aplicación se abrirá automáticamente en el navegador predeterminado.
+<detail
 
----
 
-## 📊 Descripción general
 
-La app permite navegar entre secciones:
 
-- **Temas:** Presenta los problemas y soluciones propuestos.
-- **Fuentes:** Muestra la estructura y tipos de datos de cada dataset.
-- **Pseudocódigo:** Resume los pasos lógicos aplicados a cada tema.
-- **Diagrama:** Visualiza el flujo general de la aplicación.
-- **Resumen Sprint 1:** Describe los entregables completados y los próximos pasos.
 
----
-
-## 🧩 Requisitos técnicos
-
-- Python 3.9 o superior  
-- Librerías: `streamlit`, `pandas`, `openpyxl`, *(opcionalmente)* `graphviz`
 
 
 
