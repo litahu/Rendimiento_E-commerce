@@ -5,7 +5,7 @@
 
 **Tool** : [Notebook](https://github.com/litahu/Rendimiento_E-commerce/tree/main/Sprint_1/BD)<br>
 **Visualización** : Aplicación desarrollada en **Python + Streamlit** <br>
-**Dataset** : Guayerd IA - [Ecommerce Data](https://github.com/litahu/Rendimiento_E-commerce/tree/main/Sprint_1/BD)<br>
+**Dataset** : [Ecommerce Data](https://github.com/litahu/Rendimiento_E-commerce/tree/main/Sprint_1/BD)<br>
 <br>
 <br>
 
@@ -56,6 +56,7 @@ Figura 1. Diagrama de relación de entidades
 
 
 <detail
+
 
 
 
