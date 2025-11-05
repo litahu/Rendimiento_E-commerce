@@ -33,7 +33,7 @@ Recopilar información a partir de análisis y visualizaciones en forma de:
 ## 📁**FASE 0: Preparación de datos**
 El conjunto de datos utilizado pertenece a Tienda Aurelión y contiene información de pedidos, con un total de 336 registros realizados en el primer semestre del 2023. Se incluye características que generan información como el estado del pedido, la ubicación, el tipo de pago y las reseñas por valor.
 
-###**Crear base de datos y diagrama ER**
+### **Crear base de datos y diagrama ER**
 
 **Las medidas adoptadas incluyen:**
 1. Crea un espacio de trabajo de base de datos
@@ -43,7 +43,7 @@ El conjunto de datos utilizado pertenece a Tienda Aurelión y contiene informaci
 
 **Resultados de ERD:**<br>
 <pag alinear= "centro">
-  <kbd><img src="https://github.com/litahu/Rendimiento_E-commerce/blob/main/Sprint_1/IMAGES/DRE.png" alt="inserir alt"> </kbd> <br>
+  <kbd><img src="https://github.com/litahu/Rendimiento_E-commerce/blob/main/Sprint_1/IMAGES/DRE.png" alt="inserir alt"> </kbd><br>
   Figura 1. Diagrama de relación de entidades
 </pag>  
 
@@ -58,6 +58,7 @@ El conjunto de datos utilizado pertenece a Tienda Aurelión y contiene informaci
 
 
 <detail
+
 
 
 
