@@ -30,7 +30,7 @@ Recopilar información a partir de análisis y visualizaciones en forma de:
 <br>
 
 ---
-## 📁**FASE 0: Preparación de datos**
+## 📁**ETAPA 1: Preparación de datos**
 El conjunto de datos utilizado pertenece a Tienda Aurelión y contiene información de pedidos, con un total de 336 registros realizados en el primer semestre del 2023. Se incluye características que generan información como el estado del pedido, la ubicación, el tipo de pago y las reseñas por valor.
 
 ### **Crear base de datos y diagrama ER**
@@ -60,7 +60,13 @@ El conjunto de datos utilizado pertenece a Tienda Aurelión y contiene informaci
 
 
 
+### **2. Calidad mensual de la categoría de productos**
+
+
+
 ### **3. Uso del tipo de pago mensual**
+
+
 
 Las formas de pago utilizados por los clientes pueden analizarse a partir de sus tipos de pago favoritos y la cantidad de uso de cada tipo de pago por mes.
 
@@ -70,6 +76,7 @@ Las formas de pago utilizados por los clientes pueden analizarse a partir de sus
 </p>  
 
 La mayoría de los clientes realizan sus pagos con "QR", y esta cifra tiende a aumentar cada mes. Los pagos en "efectivo" aumentaron los dos últimos meses a pesar que venía disminuyendo en abril. Por otro lado la "tarjeta(de débito, de crédito)" y las "transferencias" tienen una tendencia de uso bajista. Esto se debe probablemente a las altas comisiones que se cobran por costos de cobro que se transfieren al consumidor.
+
 
 
 
