@@ -55,27 +55,51 @@ El conjunto de datos utilizado pertenece a Tienda Aurelión y contiene informaci
 
 ## 📂 **ETAPA 2: Análisis de datos**
 
-### **1. Crecimiento mensual de la actividad del cliente**
+### **1. Comportamiento del cliente**
 
-
-
-
-### **2. Calidad mensual de la categoría de productos**
-
-
-
-### **3. Uso del tipo de pago mensual**
-
-
-
-Las formas de pago utilizados por los clientes pueden analizarse a partir de sus tipos de pago favoritos y la cantidad de uso de cada tipo de pago por mes.
+Las formas de compras pueden analizarse por los productos que adquieren. En general, se pudo determinar el perfil de los clientes 
 
 <p align= "center">
-  <kbd><img src="https://github.com/litahu/Rendimiento_E-commerce/blob/main/Sprint_1/IMAGES/DRE.png" width=600px> </kbd> <br>
-  Figura 4. Gráfico de los tipos de pago utilizados por los clientes en el primer semestre
+  <kbd><img src="https://github.com/litahu/Rendimiento_E-commerce/blob/main/Sprint_2/assets/plan_alto.png" width=600px> </kbd> <br>
+</p>  
+<p align= "center">
+  <kbd><img src="https://github.com/litahu/Rendimiento_E-commerce/blob/main/Sprint_2/assets/plan_medio.png" width=600px> </kbd> <br>
+</p> 
+<p align= "center">
+  <kbd><img src="https://github.com/litahu/Rendimiento_E-commerce/blob/main/Sprint_2/assets/plan_bajo.png" width=600px> </kbd> <br>
+</p> 
+
+### **2. Calidad de la categoría de productos**
+
+La empresa generó los mayores ingresos con su categoría de productos Abarrotes y limpieza. Sin embargo, las bebidas y embutidos tienen a ser categorías líder en diferente meses festivos.
+
+<p align= "center">
+  <kbd><img src="https://github.com/litahu/Rendimiento_E-commerce/blob/main/Sprint_2/assets/ventas_mensuales.png" width=600px> </kbd> <br>
+  Figura 3. Gráfico de las ventas de las categorías top
 </p>  
 
+### **3. Uso del tipo de pago **
+
 La mayoría de los clientes realizan sus pagos con "QR", y esta cifra tiende a aumentar cada mes. Los pagos en "efectivo" aumentaron los dos últimos meses a pesar que venía disminuyendo en abril. Por otro lado la "tarjeta(de débito, de crédito)" y las "transferencias" tienen una tendencia de uso bajista. Esto se debe probablemente a las altas comisiones que se cobran por costos de cobro que se transfieren al consumidor.
+
+<p align= "center">
+  <kbd><img src="https://github.com/litahu/Rendimiento_E-commerce/blob/main/Sprint_2/assets/medio_pago.png" width=600px> </kbd> <br>
+  Figura 2. Gráfico del tipo de pago favoritos
+</p>  
+
+
+## 📂 **ETAPA 3: Resumen**
+
+- Según el comportamiento de los clientes, se puede concluir que suelen adquirir entre 2, 3 y 4 productos.
+Los clientes con un plan de consumo de medio a alto residen en Alta Gracia y Río Cuarto. Mientras, que los clientes más críticos residen en Mendiolaza y Villa María.
+Por lo tanto, se necesita una estrategia comercial para aumentar el interés de los clientes con llamadas a la acción de acuerdo al perfil del cliente
+
+- Según el análisis las categorías consumidas por los clientes con un "Plan alto" es **Embutidos**, **abarrotes** y **bebidas**, mientras que los clientes con un "Plan Medio" son **Abarrotes**, **embutidos** y **limpieza** y finalmente, los clientes con un "Plan Bajo" solo se sostiene para la categoría abarrrotes **Abarrotes**. A partir de este análisis, se puede desarrollar una estrategia comercial que incluya promociones entre estas categorías segun el perfil de consumo, lo que se espera que incremente las oportunidades de generación de ingresos de la empresa.
+
+- Las pagos con QR y en efectivo son los tipo de pago favoritos de los clientes. Se invita colocar promociones para incentivar estos tipos de pago. Cabe resaltar que los consumidores no desean asumir las comisiones de las transferencias y tarjetas(de crédito, de depósito).
+
+
+
 
 
 
