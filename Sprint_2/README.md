@@ -57,8 +57,7 @@ El conjunto de datos utilizado pertenece a Tienda Aurelión y contiene informaci
 
 ### **1. Comportamiento del cliente**
 
-Las formas de compras pueden analizarse por los productos que adquieren. En general, se pudo determinar el perfil de los clientes 
-
+Las formas de compras pueden analizarse por los productos que adquieren. En general, la empresa ha experimentado un aumento en el número de compras de la categoría: abarrotes, limpieza, embutidos, bebidas cada año.
 <p align= "center">
   <kbd><img src="https://github.com/litahu/Rendimiento_E-commerce/blob/main/Sprint_2/assets/plan_alto.png" width=600px> </kbd> <br>
 </p>  
@@ -75,7 +74,7 @@ La empresa generó los mayores ingresos con su categoría de productos Abarrotes
 
 <p align= "center">
   <kbd><img src="https://github.com/litahu/Rendimiento_E-commerce/blob/main/Sprint_2/assets/ventas_mensuales.png" width=600px> </kbd> <br>
-  Figura 3. Gráfico de las ventas de las categorías top
+  Figura 2. Gráfico de las ventas de las categorías top
 </p>  
 
 ### **3. Uso del tipo de pago **
@@ -84,7 +83,7 @@ La mayoría de los clientes realizan sus pagos con "QR", y esta cifra tiende a a
 
 <p align= "center">
   <kbd><img src="https://github.com/litahu/Rendimiento_E-commerce/blob/main/Sprint_2/assets/medio_pago.png" width=600px> </kbd> <br>
-  Figura 2. Gráfico del tipo de pago favoritos
+  Figura 3. Gráfico del tipo de pago favoritos
 </p>  
 
 
@@ -97,6 +96,7 @@ Por lo tanto, se necesita una estrategia comercial para aumentar el interés de 
 - Según el análisis las categorías consumidas por los clientes con un "Plan alto" es **Embutidos**, **abarrotes** y **bebidas**, mientras que los clientes con un "Plan Medio" son **Abarrotes**, **embutidos** y **limpieza** y finalmente, los clientes con un "Plan Bajo" solo se sostiene para la categoría abarrrotes **Abarrotes**. A partir de este análisis, se puede desarrollar una estrategia comercial que incluya promociones entre estas categorías segun el perfil de consumo, lo que se espera que incremente las oportunidades de generación de ingresos de la empresa.
 
 - Las pagos con QR y en efectivo son los tipo de pago favoritos de los clientes. Se invita colocar promociones para incentivar estos tipos de pago. Cabe resaltar que los consumidores no desean asumir las comisiones de las transferencias y tarjetas(de crédito, de depósito).
+
 
 
 
