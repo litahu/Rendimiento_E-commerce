@@ -3,7 +3,7 @@
 <img src="https://github.com/litahu/Rendimiento_E-commerce/blob/main/Sprint_1/IMAGES/LOGO_END.png?raw=true" alt="inserir alt">
 <br>
 
-**Tool** : [Notebook](https://github.com/litahu/Rendimiento_E-commerce/tree/main/Sprint_1/BD)<br>
+**Tool** : [Notebook](https://github.com/litahu/Rendimiento_E-commerce/blob/main/Sprint_2/Aurelion_2.ipynb)<br>
 **Visualización** : Aplicación desarrollada en **Python + Streamlit** <br>
 **Dataset** : [Ecommerce Data](https://github.com/litahu/Rendimiento_E-commerce/tree/main/Sprint_1/BD)<br>
 <br>
@@ -98,6 +98,7 @@ Por lo tanto, se necesita una estrategia comercial para aumentar el interés de 
 - Según el análisis las categorías consumidas por los clientes con un "Plan alto" es **Embutidos**, **abarrotes** y **bebidas**, mientras que los clientes con un "Plan Medio" son **Abarrotes**, **embutidos** y **limpieza** y finalmente, los clientes con un "Plan Bajo" solo se sostiene para la categoría abarrrotes **Abarrotes**. A partir de este análisis, se puede desarrollar una estrategia comercial que incluya promociones entre estas categorías segun el perfil de consumo, lo que se espera que incremente las oportunidades de generación de ingresos de la empresa.
 
 - Las pagos con QR y en efectivo son los tipo de pago favoritos de los clientes. Se invita colocar promociones para incentivar estos tipos de pago. Cabe resaltar que los consumidores no desean asumir las comisiones de las transferencias y tarjetas(de crédito, de depósito).
+
 
 
 
