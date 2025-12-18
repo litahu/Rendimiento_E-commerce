@@ -88,6 +88,10 @@ La mayoría de los clientes realizan sus pagos con "QR", y esta cifra tiende a a
   Figura 3. Gráfico del tipo de pago favoritos
 </p>  
 
+<br>
+<br>
+
+---
 
 ## 📂 **ETAPA 3: Resumen**
 
@@ -99,6 +103,10 @@ Por lo tanto, se necesita una estrategia comercial para aumentar el interés de 
 
 - Las pagos con QR y en efectivo son los tipo de pago favoritos de los clientes. Se invita colocar promociones para incentivar estos tipos de pago. Cabe resaltar que los consumidores no desean asumir las comisiones de las transferencias y tarjetas(de crédito, de depósito).
 
+<br>
+<br>
+
+---
 ## 📂 **ETAPA 4: Presentación del modelo en app**
 
 <p align= "center">
@@ -109,6 +117,7 @@ Por lo tanto, se necesita una estrategia comercial para aumentar el interés de 
   <kbd><img src="https://github.com/litahu/Rendimiento_E-commerce/blob/main/Sprint_2/evidence/1.gif" width=800px> </kbd> <br>
   Figura 4. Interacción del aplicativo
 </p>  
+
 
 
 
