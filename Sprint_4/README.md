@@ -11,7 +11,7 @@
 ## 📁**ETAPA 0: Plan de modelado y diseño**
 Enfocado en el contexto de negocio, se diseñó un wireframe del panel con el objetivo de optimizar la lógica de usabilidad para el usuario final. Este prototipo funciona como una guía visual para validar la disposición de los elementos, la jerarquía de la información y la interacción prevista dentro de la visualizacion en Power BI.
 
-🔑 Objetos principales del Diseño UX/UI:
+### **🔑 Objetos principales del Diseño UX/UI**:
 - **Wireframes**
 Bocetos estructurales que muestran la disposición de los elementos en pantalla sin entrar en detalles visuales. Sirven para validar la lógica de navegación y jerarquía de información.
 - **Mockups**
@@ -87,6 +87,7 @@ Las formas de pago utilizados por los clientes pueden analizarse a partir de sus
 </p>  
 
 La mayoría de los clientes realizan sus pagos con "QR", y esta cifra tiende a aumentar cada mes. Los pagos en "efectivo" aumentaron los dos últimos meses a pesar que venía disminuyendo en abril. Por otro lado la "tarjeta(de débito, de crédito)" y las "transferencias" tienen una tendencia de uso bajista. Esto se debe probablemente a las altas comisiones que se cobran por costos de cobro que se transfieren al consumidor.
+
 
 
 
