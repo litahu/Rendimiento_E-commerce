@@ -40,7 +40,7 @@ Representaciones ficticias de usuarios tipo que ayudan a diseñar pensando en ne
 
 ---
 ## 📁**ETAPA 1: Gráfico Visual de datos**
-Acontinuación se integro los objetos de acuerdo a la usabilidad del cliente y a la optimizacion del modelo
+Acontinuación se integro los objetos de acuerdo a la usabilidad del cliente y a la optimización del modelo
 
 ### **📊 Ejemplo aplicado a Power BI**
 
@@ -71,22 +71,11 @@ Acontinuación se integro los objetos de acuerdo a la usabilidad del cliente y a
 ---
 
 ## 📂 **ETAPA 2: Reportería**
+Una vez que hayamos usado nuestros paneles, comparto los hallazgos para motivar a otros a actuar en consecuencia
 
-### **1. Crecimiento mensual de la actividad del cliente**
+### **Informe Ejecutivo**
 
 
-
-
-### **3. Uso del tipo de pago mensual**
-
-Las formas de pago utilizados por los clientes pueden analizarse a partir de sus tipos de pago favoritos y la cantidad de uso de cada tipo de pago por mes.
-
-<p align= "center">
-  <kbd><img src="https://github.com/litahu/Rendimiento_E-commerce/blob/main/Sprint_1/IMAGES/DRE.png" width=600px> </kbd> <br>
-  Figura 4. Gráfico de los tipos de pago utilizados por los clientes en el primer semestre
-</p>  
-
-La mayoría de los clientes realizan sus pagos con "QR", y esta cifra tiende a aumentar cada mes. Los pagos en "efectivo" aumentaron los dos últimos meses a pesar que venía disminuyendo en abril. Por otro lado la "tarjeta(de débito, de crédito)" y las "transferencias" tienen una tendencia de uso bajista. Esto se debe probablemente a las altas comisiones que se cobran por costos de cobro que se transfieren al consumidor.
 
 
 
