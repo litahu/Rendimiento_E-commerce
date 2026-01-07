@@ -1,5 +1,5 @@
 
-# 💰 **Panel de Control de la Tienda aurelión**
+# 🛒 **Panel de Control de la "Tienda aurelión"**
 
 **Tool** : [Mokkup](https://www.mokkup.ai/) <br>
 **Visualización** : Power BI(ETL, Power Query, DAX y plugins) <br>
@@ -9,7 +9,8 @@
 
 ---
 ## 📁**ETAPA 0: Plan de modelado y diseño**
-Enfocado en el contexto de negocio, se diseñó un wireframe del panel con el objetivo de optimizar la lógica de usabilidad para el usuario final. Este prototipo funciona como una guía visual para validar la disposición de los elementos, la jerarquía de la información y la interacción prevista dentro de la visualizacion en Power BI.
+Enfocado en el contexto de negocio, se diseñó un wireframe del panel con el objetivo de optimizar la lógica de usabilidad para el usuario final. Este prototipo funciona como una guía visual para validar la disposición de los elementos, la jerarquía de la información y la interacción prevista dentro de la visualizacion en Power BI.<br>
+
 
 ### **🔑 Objetos principales del Diseño UX/UI**:
 - **Wireframes**
@@ -71,9 +72,13 @@ Acontinuación se integro los objetos de acuerdo a la usabilidad del cliente y a
 ---
 
 ## 📂 **ETAPA 2: Reportería**
-Una vez que hayamos usado nuestros paneles, comparto los hallazgos para motivar a otros a actuar en consecuencia
 
-### **Informe Ejecutivo**
+**Informe Ejecutivo:**<br>
+<p align= "center">
+  <kbd><img src="https://github.com/litahu/Rendimiento_E-commerce/blob/main/Sprint_4/Resource/Report.png " width=900px> </kbd> <br>
+  Figura 3. Hallazgos relevantes
+</p>
+
 
 
 
