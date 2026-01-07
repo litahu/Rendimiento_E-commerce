@@ -73,11 +73,11 @@ Acontinuación se integro los objetos de acuerdo a la usabilidad del cliente y a
 
 ## 📂 **ETAPA 2: Reportería**
 
-**Informe Ejecutivo:**<br>
 <p align= "center">
   <kbd><img src="https://github.com/litahu/Rendimiento_E-commerce/blob/main/Sprint_4/Resource/Report.png " width=900px> </kbd> <br>
-  Figura 3. Hallazgos relevantes
+  Figura 3. Hallazgos relevantes para la gerencia
 </p>
+
 
 
 
