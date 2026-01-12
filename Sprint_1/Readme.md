@@ -57,10 +57,6 @@ La app permite navegar entre secciones:
 ## 📂 Presentación del modelo en app
 
 <p align= "center">
-  <kbd><img src="https://github.com/litahu/Rendimiento_E-commerce/blob/main/Sprint_2/evidence/streamlit_1.PNG" width=800px> </kbd> <br>
-</p>  
-
-<p align= "center">
   <kbd><img src="https://github.com/litahu/Rendimiento_E-commerce/blob/main/Sprint_2/evidence/1.gif" width=800px> </kbd> <br>
   Figura 4. Interacción del aplicativo
 </p>  
@@ -70,5 +66,6 @@ La app permite navegar entre secciones:
 ## ✨ Autor
 
 **Lita Hume**  
-Proyecto  — *Tienda Aurelion (Sprint 1)*  
+Proyecto  — *Tienda Aurelión (Sprint 1)*  
+
 
