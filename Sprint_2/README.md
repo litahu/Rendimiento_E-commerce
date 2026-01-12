@@ -108,12 +108,16 @@ Por lo tanto, se necesita una estrategia comercial para aumentar el interés de 
 
 ---
 ## 📂 **ETAPA 4: Presentación**
-<p align= "center"> [Ver demo](https://drive.google.com/file/d/1-epThm9diWGVSOsFJq6HmCeT-WlxyZAi/view?usp=sharing)
+
+<p align= "center">
+  <kbd>< [Ver demo](https://drive.google.com/file/d/1-epThm9diWGVSOsFJq6HmCeT-WlxyZAi/view?usp=sharing) > </kbd> <br>
 </p>  
 
 <p align= "center">
   <kbd><img src="https://github.com/litahu/Rendimiento_E-commerce/blob/main/Sprint_2/assets/demoSprint2.PNG" width=600px> </kbd> <br>
+  [Ver demo](https://drive.google.com/file/d/1-epThm9diWGVSOsFJq6HmCeT-WlxyZAi/view?usp=sharing)
 </p>  
+
 
 
 
