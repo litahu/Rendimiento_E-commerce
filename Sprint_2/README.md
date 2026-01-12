@@ -117,6 +117,9 @@ Por lo tanto, se necesita una estrategia comercial para aumentar el interés de 
   <kbd><img src="https://github.com/litahu/Rendimiento_E-commerce/blob/main/Sprint_2/assets/demoSprint2.PNG" width=600px> </kbd> <br>
 </p>  
 
+<p align="center">
+  <a href="https://drive.google.com/file/d/1-epThm9diWGVSOsFJq6HmCeT-WlxyZAi" style="font-size:18px; font-weight:bold;">🔗 Ver demo</a>
+</p>
 
 
 
