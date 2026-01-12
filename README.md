@@ -8,6 +8,7 @@ A continuación, presento el desarrollo de los cuatro desafíos prácticos que r
 
 <br>
 <br>
+
 ---
 
 ## 📂 **Estructura del proyecto**
@@ -34,6 +35,7 @@ Se logró desarrollar el análisis completo del proyecto Aurelión en tiempo y f
 *Fecha: Noviembre 2025*
  
  ## <h5 align="center"> © IA Guayerd 2025. All rights reserved. <h5/>
+
 
 
 
