@@ -13,10 +13,11 @@ A continuación, presento el desarrollo de los cuatro desafíos prácticos que r
 
 No | Sprint | Tools | Descripción
 ---|---|---|---
-1 | [Script automatizado](https://github.com/litahu/Rendimiento_E-commerce/tree/main/Sprint_1) | Python + Streamlit | Diseño de prompts e integración de herramientas automatizadas para resolver tareas y clasificar datos con IA.
-2 | [Análisis de datos](https://github.com/litahu/Rendimiento_E-commerce/tree/main/Sprint_2) | Pandas, Numpy y Matplotlib| Fundamentos de programación Python: estructuras básicas, lectura y escritura de archivos, y análisis de datos con este lenguaje.
-3 | [Machine Learning models](https://github.com/litahu/Rendimiento_E-commerce/tree/main/Sprint_3) | Scikit learn, MlFlow| Se desarrollo el flujo de trabajo de un pipeline de Machine Learning(preprocesamiento,  Modelización y despliegue).
-4 | [Visualización de datos](https://github.com/litahu/Rendimiento_E-commerce/tree/main/Sprint_4) | Power BI, UX/UI y Mokkup | Creación de gráficos interactivos con Python para comunicar hallazgos, detectar patrones y facilitar la toma de decisiones.
+1 | [Script automatizado](https://github.com/litahu/Rendimiento_E-commerce/tree/main/Sprint_1) | Python + Streamlit | Diseñé y desarrollé scripts con inteligencia artificial para automatizar procesos y optimizar la gestión de tareas.
+2 | [Análisis de datos](https://github.com/litahu/Rendimiento_E-commerce/tree/main/Sprint_2) | Pandas, Numpy y Matplotlib| Ejecuté análisis exploratorios de datos, identificando hallazgos estratégicos que aportaron valor a la toma de decisiones empresariales.
+3 | [Machine Learning models](https://github.com/litahu/Rendimiento_E-commerce/tree/main/Sprint_3) | Scikit learn, MlFlow| Construí modelos de aprendizaje automático orientados a la clasificación de clientes, mejorando la segmentación y personalización de estrategias.
+4 | [Visualización de datos](https://github.com/litahu/Rendimiento_E-commerce/tree/main/Sprint_4) | Power BI, UX/UI y Mokkup | - Elaboré paneles de control interactivos para el seguimiento de productos y la generación de reportes ejecutivos.
+
 
 ---
 
@@ -33,6 +34,7 @@ Se logró desarrollar el análisis completo del proyecto Aurelión en tiempo y f
 *Fecha: Noviembre 2025*<br>
  
  ## <h5 align="center"> © IA Guayerd 2025. All rights reserved. <h5/>
+
 
 
 
