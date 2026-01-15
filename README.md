@@ -1,6 +1,6 @@
 # **Guayerd - Programa: Fundamentos de Inteligencia artificial**
 
-Fui seleccionada entre los mejores perfiles para recibir una **Beca Completa en *Inteligencia Artificial(IA)***, una oportunidad invaluable que me permitió adentrarme en el fascinante mundo de la IA.<br>
+**Beca Completa en *Inteligencia Artificial(IA)***, una oportunidad invaluable que me permitió adentrarme en el fascinante mundo de la IA.<br>
 <br>
 El programa resultó ser una experiencia sumamente enriquecedora, ya que combinaba teoría sincrónica y asincrónica. Sin embargo, su verdadero diferencial estuvo en las mentorías en vivo, donde tuve la posibilidad de aprender directamente de profesionales con amplia trayectoria en el área y en el gran acompañamiento de soporte asincrónico.<br>
 
@@ -33,6 +33,7 @@ Se logró desarrollar el análisis completo del proyecto Aurelión en tiempo y f
 *Fecha: Noviembre 2025*<br>
  
  ## <h5 align="center"> © IA Guayerd 2025. All rights reserved. <h5/>
+
 
 
 
