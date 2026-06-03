@@ -1,7 +1,6 @@
 
 # 🛒 **Panel de Control de la "Tienda aurelión"**
 
-**Tool** : [Mokkup](https://www.mokkup.ai/) <br>
 **Visualización** : Power BI(ETL, Power Query, DAX y plugins) <br>
 **Dataset** : [Ecommerce Data](https://github.com/litahu/Rendimiento_E-commerce/blob/main/Sprint_3/bd_venta_aurelion.xlsx)<br>
 <br>
