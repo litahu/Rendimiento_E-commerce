@@ -1,7 +1,7 @@
 
 # 🛒 **Panel de Control de la "Tienda aurelión"**
 
-**Visualización** : Power BI(ETL, Power Query, DAX y plugins) <br>
+**Visualización** : Power BI(ETL, Power Query, DAX y Plugins) <br>
 **Dataset** : [Ecommerce Data](https://github.com/litahu/Rendimiento_E-commerce/blob/main/Sprint_3/bd_venta_aurelion.xlsx)<br>
 <br>
 <br>
